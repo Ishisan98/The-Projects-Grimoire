@@ -1,0 +1,31 @@
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\appsettings.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.staticwebassets.runtime.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.exe
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.deps.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.runtimeconfig.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.dll
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\bin\Debug\net7.0\The Projects Grimoire.pdb
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.csproj.AssemblyReference.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.AssemblyInfoInputs.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.AssemblyInfo.cs
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.csproj.CoreCompileInputs.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.RazorAssemblyInfo.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.RazorAssemblyInfo.cs
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets\msbuild.The Projects Grimoire.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets\msbuild.build.The Projects Grimoire.props
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.The Projects Grimoire.props
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.The Projects Grimoire.props
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\scopedcss\bundle\The Projects Grimoire.styles.css
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\scopedcss\projectbundle\The Projects Grimoire.bundle.scp.css
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.dll
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\refint\The Projects Grimoire.dll
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.pdb
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\The Projects Grimoire.genruntimeconfig.cache
+C:\Users\Ishisan\Desktop\Projects\The Projects Grimoire\The Projects Grimoire\obj\Debug\net7.0\ref\The Projects Grimoire.dll
